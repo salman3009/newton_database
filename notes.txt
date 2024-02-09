@@ -1,0 +1,6 @@
+Sqlrootuser:
+Password:root4444
+
+brew services start mysql
+brew services restart mysql
+mysql -u root -p
